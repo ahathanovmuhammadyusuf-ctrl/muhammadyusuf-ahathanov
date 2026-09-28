@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0A0D14"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" stroke="#1E293B" stroke-width="2"/>
+  <!-- Circuit & Speed Accent Lines -->
+  <path d="M12 48L24 16H30L34 27" stroke="#38BDF8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 38H31" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <!-- M Monogram with Automotive Angularity -->
+  <path d="M30 48V24L38 38L46 24V48" stroke="#F59E0B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Subtle glowing dot -->
+  <circle cx="50" cy="18" r="2.5" fill="#38BDF8"/>
+</svg>
